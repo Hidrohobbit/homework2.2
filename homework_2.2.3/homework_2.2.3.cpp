@@ -44,6 +44,7 @@ int main()
         std::cout << std::endl;
     }
 
+    delete[] location_array;
 
 
     return 0;
